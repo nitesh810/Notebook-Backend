@@ -1,4 +1,4 @@
-# Notebook
+# Notebook-Backend
 
 Notebook-App is a backend note-taking application developed using Node.js, Express.js, and MongoDB. It allows users to securely sign up, log in, and manage their notes efficiently.
 
